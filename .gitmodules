@@ -1,0 +1,16 @@
+[submodule "hermes-agent"]
+	path = hermes-agent
+	url = https://github.com/NousResearch/hermes-agent.git
+[submodule "honcho"]
+	path = honcho
+	url = https://github.com/plastic-labs/honcho.git
+[submodule "mem0"]
+	path = mem0
+	url = https://github.com/mem0ai/mem0.git
+	ignore = untracked
+[submodule "PageIndex"]
+	path = PageIndex
+	url = https://github.com/VectifyAI/PageIndex.git
+[submodule "OpenViking"]
+	path = OpenViking
+	url = https://github.com/volcengine/OpenViking.git
